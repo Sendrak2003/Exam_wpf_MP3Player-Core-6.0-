@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_wpf_MP3Plaer(Core)", "Exam_wpf_MP3Plaer(Core)\Exam_wpf_MP3Plaer(Core).csproj", "{B80CD25D-02FB-4C85-AB5D-BC4576B00E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80CD25D-02FB-4C85-AB5D-BC4576B00E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80CD25D-02FB-4C85-AB5D-BC4576B00E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80CD25D-02FB-4C85-AB5D-BC4576B00E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80CD25D-02FB-4C85-AB5D-BC4576B00E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5CB4E1-141A-47F8-9F7F-92B95067DC99}
+	EndGlobalSection
+EndGlobal
